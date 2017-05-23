@@ -1,0 +1,16 @@
+c:\users\ricky\documents\visual studio 2015\Projects\eShiatsu App\eShiatsu App\obj\Debug\eShiatsu App.csprojResolveAssemblyReference.cache
+c:\Users\ricky\Documents\Visual Studio 2015\Projects\eShiatsu App\eShiatsu App\bin\Debug\eShiatsu App.dll
+c:\Users\ricky\Documents\Visual Studio 2015\Projects\eShiatsu App\eShiatsu App\bin\Debug\eShiatsu App.pdb
+c:\Users\ricky\Documents\Visual Studio 2015\Projects\eShiatsu App\eShiatsu App\bin\Debug\eShiatsu_App.eShiatsu_App.apk
+c:\Users\ricky\Documents\Visual Studio 2015\Projects\eShiatsu App\eShiatsu App\bin\Debug\eShiatsu_App.eShiatsu_App-Signed.apk
+c:\Users\ricky\Documents\Visual Studio 2015\Projects\eShiatsu App\eShiatsu App\obj\Debug\eShiatsu App.dll
+c:\Users\ricky\Documents\Visual Studio 2015\Projects\eShiatsu App\eShiatsu App\obj\Debug\eShiatsu App.pdb
+c:\Users\ricky\Documents\Visual Studio 2015\Projects\eShiatsu App\eShiatsu App\obj\Debug\android\bin\eShiatsu_App.eShiatsu_App.apk
+c:\Users\ricky\Documents\Visual Studio 2015\Projects\eShiatsu App\eShiatsu App\obj\Debug\res\layout\main.xml
+c:\Users\ricky\Documents\Visual Studio 2015\Projects\eShiatsu App\eShiatsu App\obj\Debug\res\values\strings.xml
+c:\Users\ricky\Documents\Visual Studio 2015\Projects\eShiatsu App\eShiatsu App\obj\Debug\res\drawable\icon.png
+c:\Users\ricky\Documents\Visual Studio 2015\Projects\eShiatsu App\eShiatsu App\obj\Debug\R.cs.flag
+c:\Users\ricky\Documents\Visual Studio 2015\Projects\eShiatsu App\eShiatsu App\obj\Debug\uploadflags.txt
+c:\Users\ricky\Documents\Visual Studio 2015\Projects\eShiatsu App\eShiatsu App\obj\Debug\res\drawable\eshiatsu_icon_big.png
+c:\Users\ricky\Documents\Visual Studio 2015\Projects\eShiatsu App\eShiatsu App\obj\Debug\eShiatsu App.dll.mdb
+c:\Users\ricky\Documents\Visual Studio 2015\Projects\eShiatsu App\eShiatsu App\bin\Debug\eShiatsu App.dll.mdb

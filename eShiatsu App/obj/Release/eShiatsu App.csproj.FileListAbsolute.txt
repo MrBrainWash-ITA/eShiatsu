@@ -1,0 +1,14 @@
+c:\Users\ricky\Documents\Visual Studio 2015\Projects\eShiatsu App\eShiatsu App\bin\Release\eShiatsu App.dll
+c:\Users\ricky\Documents\Visual Studio 2015\Projects\eShiatsu App\eShiatsu App\bin\Release\eShiatsu App.pdb
+c:\Users\ricky\Documents\Visual Studio 2015\Projects\eShiatsu App\eShiatsu App\bin\Release\eShiatsu_App.eShiatsu_App.apk
+c:\Users\ricky\Documents\Visual Studio 2015\Projects\eShiatsu App\eShiatsu App\bin\Release\eShiatsu_App.eShiatsu_App-Signed.apk
+c:\Users\ricky\Documents\Visual Studio 2015\Projects\eShiatsu App\eShiatsu App\obj\Release\eShiatsu App.dll
+c:\Users\ricky\Documents\Visual Studio 2015\Projects\eShiatsu App\eShiatsu App\obj\Release\eShiatsu App.pdb
+c:\Users\ricky\Documents\Visual Studio 2015\Projects\eShiatsu App\eShiatsu App\obj\Release\android\bin\eShiatsu_App.eShiatsu_App.apk
+c:\Users\ricky\Documents\Visual Studio 2015\Projects\eShiatsu App\eShiatsu App\obj\Release\res\layout\main.xml
+c:\Users\ricky\Documents\Visual Studio 2015\Projects\eShiatsu App\eShiatsu App\obj\Release\res\values\strings.xml
+c:\Users\ricky\Documents\Visual Studio 2015\Projects\eShiatsu App\eShiatsu App\obj\Release\res\drawable\icon.png
+c:\Users\ricky\Documents\Visual Studio 2015\Projects\eShiatsu App\eShiatsu App\obj\Release\R.cs.flag
+c:\Users\ricky\Documents\Visual Studio 2015\Projects\eShiatsu App\eShiatsu App\obj\Release\uploadflags.txt
+c:\Users\ricky\Documents\Visual Studio 2015\Projects\eShiatsu App\eShiatsu App\obj\Release\eShiatsu App.dll.mdb
+c:\Users\ricky\Documents\Visual Studio 2015\Projects\eShiatsu App\eShiatsu App\bin\Release\eShiatsu App.dll.mdb

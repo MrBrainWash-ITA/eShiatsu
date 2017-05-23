@@ -1,0 +1,9 @@
+c:\Users\ricky\Documents\Visual Studio 2015\Projects\eShiatsu App\eShiatsu App\obj\Debug\assemblies\eShiatsu App.dll
+c:\Users\ricky\Documents\Visual Studio 2015\Projects\eShiatsu App\eShiatsu App\obj\Debug\assemblies\Mono.Android.dll
+c:\Users\ricky\Documents\Visual Studio 2015\Projects\eShiatsu App\eShiatsu App\obj\Debug\assemblies\mscorlib.dll
+c:\Users\ricky\Documents\Visual Studio 2015\Projects\eShiatsu App\eShiatsu App\obj\Debug\assemblies\System.Core.dll
+c:\Users\ricky\Documents\Visual Studio 2015\Projects\eShiatsu App\eShiatsu App\obj\Debug\assemblies\System.dll
+c:\Users\ricky\Documents\Visual Studio 2015\Projects\eShiatsu App\eShiatsu App\obj\Debug\assemblies\System.Xml.dll
+c:\Users\ricky\Documents\Visual Studio 2015\Projects\eShiatsu App\eShiatsu App\obj\Debug\assemblies\System.Xml.Linq.dll
+c:\Users\ricky\Documents\Visual Studio 2015\Projects\eShiatsu App\eShiatsu App\obj\Debug\assemblies\System.Runtime.Serialization.dll
+c:\Users\ricky\Documents\Visual Studio 2015\Projects\eShiatsu App\eShiatsu App\obj\Debug\assemblies\System.ServiceModel.Internals.dll

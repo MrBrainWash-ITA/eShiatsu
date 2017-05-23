@@ -1,0 +1,9 @@
+c:\Users\ricky\Documents\Visual Studio 2015\Projects\eShiatsu App\eShiatsu App\obj\Release\android\assets\eShiatsu App.dll
+c:\Users\ricky\Documents\Visual Studio 2015\Projects\eShiatsu App\eShiatsu App\obj\Release\android\assets\Mono.Android.dll
+c:\Users\ricky\Documents\Visual Studio 2015\Projects\eShiatsu App\eShiatsu App\obj\Release\android\assets\mscorlib.dll
+c:\Users\ricky\Documents\Visual Studio 2015\Projects\eShiatsu App\eShiatsu App\obj\Release\android\assets\System.Core.dll
+c:\Users\ricky\Documents\Visual Studio 2015\Projects\eShiatsu App\eShiatsu App\obj\Release\android\assets\System.dll
+c:\Users\ricky\Documents\Visual Studio 2015\Projects\eShiatsu App\eShiatsu App\obj\Release\android\assets\System.Xml.dll
+c:\Users\ricky\Documents\Visual Studio 2015\Projects\eShiatsu App\eShiatsu App\obj\Release\android\assets\System.Xml.Linq.dll
+c:\Users\ricky\Documents\Visual Studio 2015\Projects\eShiatsu App\eShiatsu App\obj\Release\android\assets\System.Runtime.Serialization.dll
+c:\Users\ricky\Documents\Visual Studio 2015\Projects\eShiatsu App\eShiatsu App\obj\Release\android\assets\System.ServiceModel.Internals.dll
